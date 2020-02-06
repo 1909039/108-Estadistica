@@ -10,6 +10,7 @@ Lista de actividades de curso estadistica
   + Actualizamos nuestro repositorio via vercion control (*Git*)
 + :paperclip: Clase 2: 23.01.2020
  + Primer tarea del curso
+<<<<<<< HEAD
  
   + La fecha de entrega sera el dia 28.01 a las 23 horas
   
@@ -31,3 +32,6 @@ Lista de actividades de curso estadistica
  +: paperclip: clase 4:30.01.2020 ("script 2")
   +importar base de datos de exel en formato *.csv*
   + utilizar las diametro y altura en eban
+=======
+ + La fecha de entrega sera el dia 28.01 a las 23 horas
+>>>>>>> 647a987c58dcb13d9c1c12d2551c0a80f0486bf3
