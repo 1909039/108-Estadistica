@@ -10,4 +10,24 @@ Lista de actividades de curso estadistica
   + Actualizamos nuestro repositorio via vercion control (*Git*)
 + :paperclip: Clase 2: 23.01.2020
  + Primer tarea del curso
- +La fecha de entrega sera el dia 28.01 a las 23 horas
+ 
+  + La fecha de entrega sera el dia 28.01 a las 23 horas
+  
+  
+  + :paperclip: clase 2: 23.01.2020
+  
+  + primera tarea del curso
+  + la fecha de entrega sera el dia 28.01 a las 23 horas
+  
+  + clase 3: 29.01.2020
+   + instalar paqueteria para R
+   
+   
++ :paperclip: clase 2: 23.01.2020
++ primera tarea del curso
++ la fecha de entrega sera el dia 28.01 a las 23 horas
+
+
+ +: paperclip: clase 4:30.01.2020 ("script 2")
+  +importar base de datos de exel en formato *.csv*
+  + utilizar las diametro y altura en eban
