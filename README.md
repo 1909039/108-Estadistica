@@ -4,6 +4,7 @@ Curso estadística Enero Junio 2020
 Lista de actividades de curso estadistica 
 
 + Clase 1 dia 22.01.2020 (Introduccion al curso de estadistica)
+
   + Durante esta clase generamos la cuenta Github (*mgtagle*)
   + Creamos nuestro primer repositorio(*108-Estadistica*)
   + Creamos nuestro proyecto RStudio (*108-Estadistica.Rproj*)
